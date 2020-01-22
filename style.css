@@ -79,13 +79,6 @@ body {
 .fa{
   color: white;
 }
-/* 
-.one{font-size: unset;}
-.two{font-size: unset;}
-.three{font-size: unset;}
-.four{font-size: unset;}
-.five{font-size: unset;}
-.nine{font-size: unset;}
-.ten{font-size: unset;}
-.eleven{font-size: unset;}
-.twelve{font-size: unset;} */
+.form-control{
+  color: #000000;
+}
